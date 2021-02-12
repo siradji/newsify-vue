@@ -11,5 +11,12 @@ export default {
 </script>
 
 <style scoped>
-
+header {
+    color: #fff;
+    display: flex;
+    flex-direction: tow;
+}
+.site-title {
+    
+}
 </style>
